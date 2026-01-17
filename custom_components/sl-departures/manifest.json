@@ -1,6 +1,6 @@
 {
-  "domain": "hello_world",
-  "name": "SL Departure Sensor",
+  "domain": "sl-departures",
+  "name": "SL Departures",
   "codeowners": ["@ranby"],
   "version": "1.0.0",
   "iot_class": "local_polling",
