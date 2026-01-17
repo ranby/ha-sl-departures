@@ -19,5 +19,5 @@ Move the file `www/sl-departures-card.js` into the corresponding folder in your 
 When setting up the integration, enter the bus stop site ID and a comma-separated list of bus lines (e.g., `1,2,3`).
 
 Example:
-- **Site ID:** `1234`
-- **Lines:** `1,2,3`
+- **Site ID:** `9192`
+- **Lines:** `401,471`
